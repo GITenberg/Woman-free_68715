@@ -1,0 +1,26 @@
+_repo: Woman-free_68715
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Ethelmer, Ellis
+    gutenberg_agent_id: '54911'
+    url: http://www.gutenberg.org/2009/agents/54911
+description: ''
+gutenberg_issued: '2022-08-08'
+identifiers:
+  gutenberg: '68715'
+language: en
+pgterms:marc904: https://archive.org/details/womanfree00ethegoog
+pgterms:marc905: 20190321215743ethelmer
+pgterms:marc906: '1893'
+pgterms:marc907: GB
+production_note: Richard Tonsing and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: United Kingdom :Women's Emancipation Union,1893.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Woman free
+url: http://www.gutenberg.org/ebooks/68715
